@@ -23,7 +23,7 @@ You will need this requeriments for good rendiment:
 
 ## 3. Installation 🔩
 
-You will need run this comands for the installation:
+You will need to run this comands for the installation:
 
 ```
 With npm: 
@@ -151,7 +151,7 @@ DEV-DEPENDENCIES:
 
 ## 7. Database 📫
 
-For the database i using PostgreSQL
+For the database i used PostgreSQL
 
 - PostgreSQL
 - Version: 12.5
@@ -164,7 +164,7 @@ For the database i using PostgreSQL
 
 For the versioning, [ConventionalCommits] was used ([https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/))
 
-I using husky for the control in commits and push
+I used husky for the control in commits and push
 
 ## 9. Author 🙎🏻‍♂️
 
