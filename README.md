@@ -38,7 +38,7 @@ yarn install //install the backend dependencies.
 
 ### About the app
 
-### ORM config for your db explication
+### ORM config for your database
 
 in the ormconfig.json
 
